@@ -6,4 +6,4 @@ Our approach aims to enhance sample efficiency in multi-agent training by incorp
 
 If you want to run the GRF environment, please execute:
 
-```python src/main.py --config=qmix_sep --env-config=gfootball with env_args.map_name=academy_single_goal_versus_lazy```
+```python src/main.py --config=qmix_sep --env-config=gfootball```
